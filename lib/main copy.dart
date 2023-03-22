@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sound/flutter_sound.dart';
 
 void main() {
   runApp(const MyApp());
